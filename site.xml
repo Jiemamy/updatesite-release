@@ -9,6 +9,18 @@
    <feature url="features/org.jiemamy.eclipse.dialect.postgresql.feature_0.3.1.201110061204.jar" id="org.jiemamy.eclipse.dialect.postgresql.feature" version="0.3.1.201110061204">
       <category name="jiemamy_eclipse_dialects"/>
    </feature>
+   <feature url="features/org.jiemamy.eclipse.core.feature_0.3.3.201110301824.jar" id="org.jiemamy.eclipse.core.feature" version="0.3.3.201110301824">
+      <category name="jiemamy_eclipse_model_editor"/>
+   </feature>
+   <feature url="features/org.jiemamy.eclipse.dialect.mysql.feature_0.3.1.201110301824.jar" id="org.jiemamy.eclipse.dialect.mysql.feature" version="0.3.1.201110301824">
+      <category name="jiemamy_eclipse_dialects"/>
+   </feature>
+   <feature url="features/org.jiemamy.eclipse.dialect.postgresql.feature_0.3.1.201110301824.jar" id="org.jiemamy.eclipse.dialect.postgresql.feature" version="0.3.1.201110301824">
+      <category name="jiemamy_eclipse_dialects"/>
+   </feature>
+   <feature url="features/org.jiemamy.eclipse.dialect.h2.feature_0.3.0.201110301824.jar" id="org.jiemamy.eclipse.dialect.h2.feature" version="0.3.0.201110301824">
+      <category name="jiemamy_eclipse_dialects"/>
+   </feature>
    <category-def name="jiemamy_eclipse_model_editor" label="Jiemamy Eclipse Model Editor"/>
    <category-def name="jiemamy_eclipse_dialects" label="Jiemamy Eclipse Dialect Plug-ins"/>
    <category-def name="jiemamy_eclipse_importers" label="Jiemamy Eclipse Importer Plug-ins"/>
