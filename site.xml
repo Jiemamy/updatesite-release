@@ -24,6 +24,9 @@
    <feature url="features/org.jiemamy.eclipse.dialect.mysql.feature_0.3.2.201201130054.jar" id="org.jiemamy.eclipse.dialect.mysql.feature" version="0.3.2.201201130054">
       <category name="jiemamy_eclipse_dialects"/>
    </feature>
+   <feature url="features/org.jiemamy.eclipse.dialect.mysql.feature_0.3.3.201201131434.jar" id="org.jiemamy.eclipse.dialect.mysql.feature" version="0.3.3.201201131434">
+      <category name="jiemamy_eclipse_dialects"/>
+   </feature>
    <category-def name="jiemamy_eclipse_model_editor" label="Jiemamy Eclipse Model Editor"/>
    <category-def name="jiemamy_eclipse_dialects" label="Jiemamy Eclipse Dialect Plug-ins"/>
    <category-def name="jiemamy_eclipse_importers" label="Jiemamy Eclipse Importer Plug-ins"/>
